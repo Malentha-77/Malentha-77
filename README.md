@@ -19,6 +19,4 @@ I'm a **Full-Stack Developer** who loves building clean, fast web apps and lever
 
 ---
 
-### 📫 Connect With Me
-- 🐙 **GitHub**: [@Malentha-77](https://github.com/Malentha-77)
-- ✉️ **Email**: [209945407+Malentha-77@users.noreply.github.com](mailto:209945407+Malentha-77@users.noreply.github.com)
+
