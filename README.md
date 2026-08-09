@@ -21,7 +21,7 @@ I'm a **Full-Stack Developer** who loves building clean, fast web apps and lever
 
 ### 📫 Connect With Me
 - 🐙 **GitHub**: [@Malentha-77](https://github.com/Malentha-77)
-- 💼 **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/malentha)
+- 💼 **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/%20xzerian-m-2b617420a)
 
 ---
 
