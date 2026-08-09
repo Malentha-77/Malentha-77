@@ -25,4 +25,4 @@ I'm a **Full-Stack Developer** who loves building clean, fast web apps and lever
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Malentha-77&color=000000&label=PROFILE%20VIEWS&style=flat-square)
+
