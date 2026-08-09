@@ -1,16 +1,24 @@
-## Hi there 👋
+# ▪️ Hi, I'm Malentha
 
-<!--
-**Malentha-77/Malentha-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** who loves building clean, fast web apps and leveraging modern AI workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ◼️ What I Do
+- 💻 Build web applications with **TypeScript**, **React**, and **Next.js**.
+- 🤖 Use **Cursor** & **VS Code** with AI pair programming to code fast.
+- ⚙️ Write backend logic and automation scripts in **Python** & **Node.js**.
+
+---
+
+### 🔳 Tools & Technologies
+- **Editors**: Cursor, VS Code
+- **Languages**: TypeScript, JavaScript, Python, HTML, CSS
+- **Frameworks**: React, Next.js, Node.js
+- **Platforms**: Git, GitHub, Vercel
+
+---
+
+### 📫 Connect With Me
+- 🐙 **GitHub**: [@Malentha-77](https://github.com/Malentha-77)
+- ✉️ **Email**: [209945407+Malentha-77@users.noreply.github.com](mailto:209945407+Malentha-77@users.noreply.github.com)
